@@ -10,3 +10,5 @@ THINGS I DID/LEARNED TODAY :- <br>
 • DATA TYPES -> PRIMITIVE , DERIVED , USER-DEFINED<br>
 • Type modifiers<br>
 
+<br>Day 2: 5th Jan 2022<br>
+<br>THINGS I DID/LEARNED TODAY :- </br>
