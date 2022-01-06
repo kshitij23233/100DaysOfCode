@@ -9,3 +9,4 @@ THINGS I DID/LEARNED TODAY :- <br>
 • Learned about different Data Types<br>
 • DATA TYPES -> PRIMITIVE , DERIVED , USER-DEFINED<br>
 • Type modifiers<br>
+
