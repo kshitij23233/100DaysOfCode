@@ -14,3 +14,7 @@ THINGS I DID/LEARNED TODAY :- <br>
 THINGS I DID/LEARNED TODAY :-<br>
 Input/output in c++<br>
 If/else statement in c++<br>
+
+<br>Day 3: 6th jan 2022<br>
+THINGS I DID/LEARNED TODAY :-<br>
+Introduction to loop in c++<br>
