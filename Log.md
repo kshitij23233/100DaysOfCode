@@ -11,6 +11,6 @@ THINGS I DID/LEARNED TODAY :- <br>
 • Type modifiers<br>
 
 <br>Day 2: 5th Jan 2022<br>
-THINGS I DID/LEARNED TODAY :-
+THINGS I DID/LEARNED TODAY :-<br>
 Input/output in c++<br>
 If/else statement in c++<br>
